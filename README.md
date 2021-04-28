@@ -1,2 +1,2 @@
 # leetcode_problems
-Problems from leetcode solved
+DSA Problems from leetcode
